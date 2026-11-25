@@ -220,3 +220,22 @@ background: linear-gradient(160deg, rgba(255, 255, 255, 1) 45%, rgba(199, 225, 2
     text-align: center;
     margin-left: 400px;
 }
+.box{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 470px;
+    padding: 15px 25px;
+    background-color: #e7f2ff;
+    border-radius: 14px;
+    margin-left: 350px;
+    margin-top: 30px;
+}
+.bt3{
+    padding: 15px 25px;
+    margin-top: -3px;
+}
+.im5{
+    width: 270px;
+    height: 316px;
+}
