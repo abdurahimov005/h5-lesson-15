@@ -119,7 +119,7 @@ background: linear-gradient(100deg, rgba(255, 255, 255, 1) 0%, rgba(212, 231, 25
 }
 .left1{
     display: flex;
-    margin-right: 60px;
+    /* margin-right: 60px; */
     gap: 20px;
 }
 .im1{
@@ -131,4 +131,44 @@ background: linear-gradient(100deg, rgba(255, 255, 255, 1) 0%, rgba(212, 231, 25
 }
 .main1{
     padding: 80px 0px;
+}
+.vd1{
+    width: 280px;
+    height: 200px;
+    border: 1px solid lightgray;
+    border-radius: 20px;
+    padding: 20px 30px;
+}
+.dfal{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.sp{
+    font-size: 20px;
+    font-weight: 500;
+}
+.sp1{
+    font-weight: 600;
+    font-size: 16px;
+    color: #217BF4;
+}
+.bt1{
+    background-color: white;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 20px 0px;
+}
+.rig{
+    width: 365px;
+
+}
+.bt2{
+    background-color: #217BF4;
+    color: white;
+    padding: 20px 20px;
+    font-weight: 500;
+    font-size: 14px;
+    margin-top: 20px;
+    box-shadow: 1px 1px 3px #217BF4;
 }
