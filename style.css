@@ -172,3 +172,51 @@ background: linear-gradient(100deg, rgba(255, 255, 255, 1) 0%, rgba(212, 231, 25
     margin-top: 20px;
     box-shadow: 1px 1px 3px #217BF4;
 }
+.im3{
+    background-color: #217BF4;
+    border-radius: 10px;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.main2{
+    padding: 80px 0px;
+}
+.mn1{
+    background: #FFFFFF;
+background: linear-gradient(160deg, rgba(255, 255, 255, 1) 45%, rgba(199, 225, 255, 1) 100%);
+}
+
+.gl1{
+    box-shadow: 1px 1px 3px gray;
+    padding: 20px 30px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+    background-color: white;
+}
+.phb{
+    background-color: #F04148;
+}
+.phb1{
+    background-color: #FFAF2E;
+}
+.wd1{
+    width: 300px;
+    margin-top: 10px;
+}
+.bx{
+    margin-top: 30px;
+    justify-content: space-around;
+}
+.bx1{
+    text-align: center;
+}
+.pr3{
+    width: 420px;
+    text-align: center;
+    margin-left: 400px;
+}
