@@ -94,3 +94,41 @@ background: linear-gradient(100deg, rgba(255, 255, 255, 1) 0%, rgba(212, 231, 25
     gap: 30px;
     margin-top: 40px;
 }
+.pr2{
+    font-weight: 500;
+    font-size: 18px;
+    color: #217BF4;
+    margin-bottom: 20px;
+}
+.txt{
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.dv2{
+    width: 400px;
+}
+.prg{
+    font-size: 16px;
+    font-weight: 400;
+    color: #656464;
+}
+.dv3{
+    display: inline;
+    
+}
+.left1{
+    display: flex;
+    margin-right: 60px;
+    gap: 20px;
+}
+.im1{
+    margin-top: 50px;
+}
+.im2{
+    border-radius: 15px;
+    margin-top: 15px;
+}
+.main1{
+    padding: 80px 0px;
+}
