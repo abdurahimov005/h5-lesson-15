@@ -239,3 +239,15 @@ background: linear-gradient(160deg, rgba(255, 255, 255, 1) 45%, rgba(199, 225, 2
     width: 270px;
     height: 316px;
 }
+.dv4{
+    width: 351px;
+    /* padding: 40px; */
+}
+.box1{
+    background-color: #E5F0FD;
+}
+.main3{
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-top: 50px;
+}
