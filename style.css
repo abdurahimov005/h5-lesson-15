@@ -267,3 +267,51 @@ background: linear-gradient(160deg, rgba(255, 255, 255, 1) 45%, rgba(199, 225, 2
     padding: 80px 0px;
     text-align: center;
 }
+.main5{
+    background-color: #2B2B39;
+    color: white;
+}
+.box3{
+    padding: 50px 70px;
+}
+.bx2{
+    gap: 40px;
+}
+.txt1{
+    font-size: 20px;
+    font-weight: 500;
+}
+.pr5{
+    margin-top: 10px;
+}
+.box4{
+    width: 340px;
+    margin-top: 20px;
+}
+.mhn{
+    /* width: 339px;
+    border: 2px solid white;
+    background-color: #2B2B39;
+    border-radius: 14px;
+    padding: 20px 30px; */
+    margin-top: 20px;
+}
+.inp1{
+    background-color: #2B2B39;
+    border: 2px solid white;
+    background-color: #2B2B39;
+    border-radius: 14px;
+    padding: 20px 30px;
+}
+.btn2{
+    width: 126px;
+    background-color: white;
+    border-radius: 14px;
+}
+.main6{
+    padding: 20px 30px;
+    color: white;
+}
+.box5{
+    background-color: #20202D;
+}
